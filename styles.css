@@ -1,0 +1,42 @@
+body{
+  background-color: #127816;
+  padding: 0px;
+  margin: 0px;
+}
+.mensaje{
+  overflow: hidden;
+  background-color: aliceblue;
+}
+.mensaje h2{
+  color: #002560;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+  background-color: #002560;
+  overflow: hidden;
+}
+header p{
+  color: #ffff;
+  margin-left: 20px;
+}
+.navbar{
+  overflow: hidden;
+  background-color: #fff;
+}
+.navbar ul li{
+  list-style: none;
+  text-align: center;
+}
+.navbar ul li a{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+  text-align: center;
+  color: black;
+}
+.navbar ul li a:hover{
+ color: #127816;
+ border-bottom:1px solid #002560 ;
+}
